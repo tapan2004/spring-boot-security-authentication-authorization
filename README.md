@@ -6,7 +6,6 @@ Secure authentication and authorization system built with Spring Boot and Spring
 ## 🚀 Features
 
 - User Registration & Login
-- JWT Token Authentication
 - Role-Based Authorization (ADMIN / USER)
 - Encrypted Passwords using BCrypt
 - Secure REST APIs
